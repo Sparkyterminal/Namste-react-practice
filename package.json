@@ -1,0 +1,20 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "this is react practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparkyterminal/Namste-react-practice.git"
+  },
+ 
+  "author": "shashanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sparkyterminal/Namste-react-practice/issues"
+  },
+  "homepage": "https://github.com/Sparkyterminal/Namste-react-practice#readme"
+}
